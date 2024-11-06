@@ -19,6 +19,13 @@ Welcome to our GDS Project GitHub! We are Barracuda Lab Sdn Bhd, and we are plea
 
 
 <hr>
+Python SDK :
+
+https://www.elsist.biz/lista-download/?FileID=3516
+
+How to Install and Upload ( Script MUST BE CODE IN python2.7 and lower ) : 
+
+https://support.milesight-iot.com/support/solutions/articles/73000514211-how-to-install-python-sdk-and-read-log
 
 
 
